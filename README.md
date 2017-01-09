@@ -1,2 +1,2 @@
 # WaterfallExample
-瀑布流布局的例子
+waterfall layout example, written in pure Swift.
