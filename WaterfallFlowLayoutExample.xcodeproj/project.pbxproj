@@ -11,6 +11,7 @@
 		2D20C0A41E22CDCD00CBFDEE /* 0.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2D20C0A31E22CDCD00CBFDEE /* 0.plist */; };
 		2D237A4F1E235BC1000448E7 /* ExampleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D237A4E1E235BC1000448E7 /* ExampleCollectionViewCell.swift */; };
 		2D237A511E236CD2000448E7 /* SwiftNoticeKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D237A501E236CD2000448E7 /* SwiftNoticeKit.swift */; };
+		2D237BB91E238BE9000448E7 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 2D237BB81E238BE9000448E7 /* README.md */; };
 		2DC20AAA1E222FA800E56F5D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DC20AA91E222FA800E56F5D /* AppDelegate.swift */; };
 		2DC20AAF1E222FA900E56F5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2DC20AAD1E222FA900E56F5D /* Main.storyboard */; };
 		2DC20AB11E222FA900E56F5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DC20AB01E222FA900E56F5D /* Assets.xcassets */; };
@@ -24,6 +25,7 @@
 		2D237A4E1E235BC1000448E7 /* ExampleCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExampleCollectionViewCell.swift; sourceTree = "<group>"; };
 		2D237A501E236CD2000448E7 /* SwiftNoticeKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftNoticeKit.swift; sourceTree = "<group>"; };
 		2D237BAF1E2370BD000448E7 /* WaterfallFlowLayoutExample-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WaterfallFlowLayoutExample-Bridging-Header.h"; sourceTree = "<group>"; };
+		2D237BB81E238BE9000448E7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2DC20AA61E222FA800E56F5D /* WaterfallFlowLayoutExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WaterfallFlowLayoutExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DC20AA91E222FA800E56F5D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2DC20AAE1E222FA900E56F5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -47,6 +49,7 @@
 		2DC20A9D1E222FA800E56F5D = {
 			isa = PBXGroup;
 			children = (
+				2D237BB81E238BE9000448E7 /* README.md */,
 				2D237A501E236CD2000448E7 /* SwiftNoticeKit.swift */,
 				2DC20AA81E222FA800E56F5D /* WaterfallFlowLayoutExample */,
 				2DC20AA71E222FA800E56F5D /* Products */,
@@ -160,6 +163,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D237BB91E238BE9000448E7 /* README.md in Sources */,
 				2D20C0A01E22A7FE00CBFDEE /* ExampleViewController.swift in Sources */,
 				2D237A4F1E235BC1000448E7 /* ExampleCollectionViewCell.swift in Sources */,
 				2DC20AAA1E222FA800E56F5D /* AppDelegate.swift in Sources */,
