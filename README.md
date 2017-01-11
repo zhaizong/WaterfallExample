@@ -1,6 +1,10 @@
 # WaterfallExample
 waterfall layout example, written in pure Swift.
 
+# Features
+
+![image](https://github.com/zhaizong/WaterfallExample/blob/master/Waterfall.gif)
+
 # How To Realize
 
 * 利用UICollectionView实现瀑布流
